@@ -12,16 +12,30 @@ I'm a highly motivated 16-year-old junior at the University of Maryland majoring
 - GPA: N/A | B.S Computer Engineering and Business Management
 
 
-## 🏆 Certificates & Awards
-
-- The Complete 2021 Flutter Development Bootcamp with Dart
-- Deep Learning Course with Flutter & Python - Build 6 AI Apps
-- Profitable App Development Blueprint for Startups
-- The Brain and Space
+## 🏆 Awards
 - 2nd place Student Math League AMATYC
 - 3rd place ILIA Project Management Competition
 - 1st place Computer Science for Good
 - Fiverr verified in HTML5, Content Writing, Microsoft Excel, and Customer Service
+
+## 🎓 Certificates
+
+- [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/certificate/UC-8638c087-e564-44a2-ac73-a7f07004d2c0/)
+- [Deep Learning Course with Flutter & Python - Build 6 AI Apps](https://www.udemy.com/certificate/UC-450f0acf-7c95-43cc-8c66-7d8f07d532b2/)
+- [Profitable App Development Blueprint for Startups](https://www.udemy.com/certificate/UC-b8c3a797-b9e5-4b67-8d5c-cecf42d57662/)
+- [The Brain and Space](https://www.coursera.org/account/accomplishments/verify/WHLYMGC2N7YH)
+- [Foundations of User Experience (UX) Design](https://www.coursera.org/account/accomplishments/verify/27PMEGP43XBK)
+- [Cloud Computing Basics (Cloud 101)](https://www.coursera.org/account/accomplishments/verify/HBAPG5V9HKTN)
+- [Powerful Tools for Teaching and Learning: Digital Storytelling](https://www.coursera.org/account/accomplishments/verify/7ESKN4PJUGA7)
+- [Statistics with SAS](https://www.coursera.org/account/accomplishments/verify/E5AFT6AC84B6)
+- [Foundations of Mindfulness](https://www.coursera.org/account/accomplishments/verify/LA6W9MCFYDXC)
+- [Reasoning Across the Disciplines](https://www.coursera.org/account/accomplishments/verify/LRLK8GJ98DF8)
+- [Problem Solving Using Computational Thinking](https://www.coursera.org/account/accomplishments/verify/LRLK8GJ98DF8)
+- [Introduction to Marketing](https://www.coursera.org/account/accomplishments/certificate/ZA6N2CG2S4B4)
+- [Innovation Through Design: Think, Make, Break, Repeat](https://www.coursera.org/account/accomplishments/certificate/ZA6N2CG2S4B4)
+- [Car Transport App in Figma](https://www.coursera.org/account/accomplishments/verify/R6YQHNG36KHM)
+- [Programming Foundations with JavaScript, HTML and CSS (with Honors)](https://www.coursera.org/account/accomplishments/verify/3ZVEHJ934LLX)
+
 
 ## 🚀 Projects
 
