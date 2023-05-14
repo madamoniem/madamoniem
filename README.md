@@ -20,7 +20,7 @@ I'm a highly motivated 16-year-old junior at the University of Maryland majoring
 - 1st place Computer Science for Good
 - Fiverr verified in HTML5, Content Writing, Microsoft Excel, and Customer Service
 
-## 🎓 Certificates
+## 📖 Courses/Certificates
 
 - [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/certificate/UC-8638c087-e564-44a2-ac73-a7f07004d2c0/)
 - [Deep Learning Course with Flutter & Python - Build 6 AI Apps](https://www.udemy.com/certificate/UC-450f0acf-7c95-43cc-8c66-7d8f07d532b2/)
@@ -45,12 +45,6 @@ I'm a highly motivated 16-year-old junior at the University of Maryland majoring
 - [AI Object Recognition](https://github.com/ai-object-recognition)
 - [TensorFlow Lite ML Integration in Mobile Apps](https://github.com/tensorflow-lite)
 
-## 📖 Courses/Certificates
-
-- The Complete 2021 Flutter Development Bootcamp with Dart
-- Deep Learning Course with Flutter & Python - Build 6 AI Apps
-- Profitable App Development Blueprint for Startups
-- The Brain and Space
 
 ## 📍 Location
 
