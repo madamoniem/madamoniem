@@ -10,15 +10,7 @@ I'm a highly motivated 16-year-old junior at the University of Maryland majoring
 
 🔹 University of Maryland - College Park (Jan 2023 - Dec 2024)
 - GPA: N/A | B.S Computer Engineering and Business Management
-- Tech Lead at the App Dev Club
 
-## 💼 Experience
-
-🔸 UX Designer at [Youth Crisis Line](https://www.youthcrisisline.com/)
-- Developed and designed advanced Flutter mobile applications for both iOS and Android platforms.
-
-🔸 Freelancer (August 2019 to September 2022)
-- Developed and launched multiple mobile apps for clients across various industries.
 
 ## 🏆 Certificates & Awards
 
@@ -53,7 +45,8 @@ I'm currently based in Lanham, Maryland.
 Feel free to reach out to me!
 - 📧 Email: [hamadmaad@gmail.com](mailto:hamadmaad@gmail.com)
 - 🌐 Website: [momoniem.com](https://momoniem.com/)
-- 🐦 Twitter: [@madamoniem](https://twitter.com/madamoniem)
+- 👨‍💻 Stack Overflow: [momoniem](https://stackoverflow.com/users/16727709/momoniem)
+- 🖇️ LinkedIn: [@hammadmoniem](https://www.linkedin.com/in/hammadmoniem/)
 
 
 ![Madamoniem's github stats](https://github-readme-stats.vercel.app/api?username=madamoniem&theme=tokyonight&show_icons=true)
