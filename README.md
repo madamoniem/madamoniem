@@ -1,5 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=madamoniem&color=grey)
 
+Purveyor of failed startups.
 
 # 👋 Hi, I'm Mohammad Abd-Elmoniem! ![GitHub followers](https://img.shields.io/github/followers/madamoniem?label=Follow&style=social)
 
