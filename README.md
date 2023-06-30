@@ -1,19 +1,17 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=madamoniem&color=grey)
 
-All my good repos are private.
-
 # 👋 Hi, I'm Mohammad Abd-Elmoniem! ![GitHub followers](https://img.shields.io/github/followers/madamoniem?label=Follow&style=social)
 
-I'm a highly motivated 16-year-old junior at the University of Maryland majoring in Computer Engineering and Business Management. I am passionate about tech, particularly mobile app development, web development, and UI/UX design. I love to explore, innovate, and make cool stuff!
+I'm a highly motivated 16-year-old junior at the University of Maryland, majoring in Computer Engineering and Business Management. I am passionate about tech, particularly mobile app development, web development, and UI/UX design. I love to explore, innovate, and make cool stuff!
 
 ## 📚 Education
 
-🔹 Prince George’s Community College (Jan 2021 - Dec 2022)
-- GPA: 3.82 | A.S General Studies
-- Involvements: Phi Theta Kappa, Diverse Male Student Initiative, STEM Week, 2nd place Student Math League AMATYC, National Society of Collegiate Scholars, Promise Scholarship Recipient, Vice President of Gaussian Club of Mathematics
+🔹 Prince George's Community College (Jan 2021 - Dec 2022)
+  - GPA: 3.82 | A.S General Studies
+  - Involvements: Phi Theta Kappa, Diverse Male Student Initiative, STEM Week, 2nd place Student Math League AMATYC, Promise Scholarship Recipient, Vice President of Gaussian Club of Mathematics
 
 🔹 University of Maryland - College Park (Jan 2023 - Dec 2024)
-- GPA: N/A | B.S Computer Engineering and Business Management
+  - GPA: N/A | B.S Computer Engineering and Business Management
 
 
 ## 🏆 Awards
