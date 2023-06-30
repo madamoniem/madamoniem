@@ -7,11 +7,11 @@ I'm a highly motivated 16-year-old junior at the University of Maryland, majorin
 ## 📚 Education
 
 🔹 Prince George's Community College (Jan 2021 - Dec 2022)
-    - GPA: 3.82 | A.S General Studies
-    - Involvements: Phi Theta Kappa, Diverse Male Student Initiative, STEM Week, 2nd place Student Math League AMATYC, Promise Scholarship Recipient, Vice President of Gaussian Club of Mathematics
+- GPA: 3.82 | A.S General Studies
+- Involvements: Phi Theta Kappa, Diverse Male Student Initiative, STEM Week, 2nd place Student Math League AMATYC, Promise Scholarship Recipient, Vice President of Gaussian Club of Mathematics
 
 🔹 University of Maryland - College Park (Jan 2023 - Dec 2024)
-    - GPA: N/A | B.S Computer Engineering and Business Management
+- GPA: N/A | B.S Computer Engineering and Business Management
 
 
 ## 🏆 Awards
