@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=madamoniem&color=grey)
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,gcp,java,jquery,androidstudio,python,tensorflow,html,figma,git,github,mysql,php,stackoverflow,gradle&theme=light)](https://skillicons.dev)
 
 # 👋 Hi, I'm Mohammad Abd-Elmoniem! ![GitHub followers](https://img.shields.io/github/followers/madamoniem?label=Follow&style=social)
 
