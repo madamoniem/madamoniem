@@ -66,7 +66,7 @@ Feel free to reach out to me!
 
 <br>
 
-![Madamoniem's github stats](https://github-readme-stats.vercel.app/api?username=madamoniem&theme=tokyonight&show_icons=true)
+![Madamoniem's github stats](https://github-readme-stats.vercel.app/api?username=madamoniem&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madamoniem&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
