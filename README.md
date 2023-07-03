@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,gcp,java,,figma,jquery,androidstudio,python,tensorflow,html,css,git,github,mysql,php,stackoverflow,gradle&theme=light" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,gcp,java,figma,jquery,androidstudio,python,tensorflow,html,css,git,github,mysql,php,stackoverflow,gradle&theme=light" />
   </a>
 </p>
 [![My Skills]()](https://skillicons.dev)
