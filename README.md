@@ -64,9 +64,22 @@ Feel free to reach out to me!
 - 👨‍💻 Stack Overflow: [momoniem](https://stackoverflow.com/users/16727709/momoniem)
 - 🖇️ LinkedIn: [@hammadmoniem](https://www.linkedin.com/in/hammadmoniem/)
 
-<br>
+<be>
+
 
 ![Madamoniem's github stats](https://github-readme-stats.vercel.app/api?username=madamoniem&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madamoniem&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=madamoniem&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=madamoniem&limit=5&theme=light&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Nerdygamer05&icon=5&color=4)](https://visitcount.itsvg.in)
 
